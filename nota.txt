@@ -1,0 +1,6 @@
+Gurdas el id del curso (1,2,3,4...)
+
+
+$concatenar = "TECNM" . $ID. 
+
+HACER EL CALENDARIO PARA FECHA DE INICIO Y TERMINACION 
